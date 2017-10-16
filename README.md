@@ -1,2 +1,1 @@
 # Computer_Vision_Image_Smoothener
-# Computer_Vision_Image_Smoothener
